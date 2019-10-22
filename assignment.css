@@ -1,0 +1,210 @@
+* {
+    font-family: Open Sans;
+    margin:0px;
+    padding:0px;
+}
+
+#logo {
+    margin-left:200px;
+    float:left;
+}
+
+#free {
+    float:none;
+    margin-left:930px;
+    color:#2c683c;
+}
+
+#xx {
+    margin-left:60px;
+    margin-top:0px;
+    color:#47ca6f;
+    font-weight:bold;
+    font-size: 22px;
+}
+
+.navbar {
+    margin-left:200px;
+    display: inline-block;
+    border:1px solid lightgrey;
+    box-shadow:2px solid lightgrey;
+    padding:16px 18px 10px 10px;
+    box-shadow: 0px 1px 5px #999;
+}
+a {
+    text-decoration: none;
+    padding:14px;
+    color:black;
+}
+a:hover {
+    color:lightgreen;
+}
+
+.text1 {
+    height:250px;
+    padding:100px;
+    background-color: #afacac;
+    margin-top:28px;
+}
+
+#text2 {
+    text-align:center;
+    color:#ffffff;
+    font-size:100px;
+    font-weight: normal;
+    margin-top:-60px;
+}
+
+
+.padding1 {
+    background-color: #47ca6f;
+    width: 60%;
+    padding: 50px;
+    margin: auto;
+    height:194px;
+  }
+  #lorem {
+      color:#ffffff;
+      font-size: 20px;
+      float:right;
+      width:50%;
+      margin-top:-75px;
+  }
+
+  #lorem1 {
+      color:#000000;
+      font-size:12px;
+      font-weight:bold;
+  }
+  #icon {
+      font-size:50px;
+      float:left;
+      margin-top:20px;
+      margin-left:28px;
+      border:6px solid #ffffff;
+       border-radius: 80%;
+       padding:14px;
+  }
+
+  #radio {
+      color:black;
+      display:block;
+      padding-top:10px;
+      width:25%;
+
+  }
+
+  .row {
+    display: flex;
+  }
+  
+  /* Create two equal columns that sits next to each other */
+  .column {
+    flex: 50%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+  }
+
+  #injury {
+    color:#ffffff;
+    font-size:28px;
+    margin-left:270px;
+
+  }
+
+  #consult {
+    color:#ffffff;
+    text-decoration: underline;
+    margin-left:270px;
+  }
+
+  #lorem5 {
+    color:#ffffff;
+    margin-left:270px;
+    text-align: left;
+  }
+
+  .text5 {
+    color:black;
+    background-color:#ffffff;
+    padding:50px;
+    margin-left:300px;
+  }
+
+  .img1 {
+    background-image: url("images/bg-attorney-image.jpg");
+  }
+
+  .form {
+    display: inline-block;
+    margin-left:270px;
+    padding:10px;
+  }
+
+  input[type=text] {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid rgb(255, 255, 255);
+  }
+  input[type=email] {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid rgb(255, 255, 255);
+  }
+  input[type=number] {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid rgb(255, 255, 255);
+  }
+
+  .button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left:650px;
+  }
+
+  .up {
+    background-color: #4CAF50;
+    color: white;
+    padding:16px;
+  }
+
+ .box {
+   border:1px solid black;
+   width:35%;
+   background-color:#ffffff;
+   margin-left:0px;
+   color:black;
+   height:200px;
+   text-align:center;
+ }
+
+ .button1 {
+  background-color: #4CAF50; /* Green */
+  color: white;
+  padding: 12px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+}
